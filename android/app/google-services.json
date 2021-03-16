@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289582022520",
+    "project_id": "fyp-flutter",
+    "storage_bucket": "fyp-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289582022520:android:f4ed35af99721c101f928d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289582022520-st97o6geqeof8q50trcq5666s2t4gk76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5UehasAX9jOXn4125Ugg28jCtoI9rars"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289582022520-st97o6geqeof8q50trcq5666s2t4gk76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
